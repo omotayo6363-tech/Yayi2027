@@ -1,0 +1,24 @@
+{
+  "name": "YAYI 2027 - Ogun State Governor",
+  "short_name": "YAYI 2027",
+  "description": "Senator Solomon Olamilekan Adeola YAYI - APC Governorship Candidate Ogun State 2027",
+  "start_url": "/Yayi2027/",
+  "display": "standalone",
+  "background_color": "#006400",
+  "theme_color": "#006400",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/006400/FFD700?text=YAYI",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/006400/FFD700?text=YAYI",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
